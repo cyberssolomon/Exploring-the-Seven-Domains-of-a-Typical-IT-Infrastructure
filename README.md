@@ -64,15 +64,15 @@ Show successful connection to the user folder:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Show failed connections to another user folder:  <br/>
+Show the failed connection to another user folder:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Show successful connection to the Marketing shared folder:  <br/>
+Show the successful connection to the Marketing shared folder:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Show failed connections to another shared folder:  <br/>
+Show the failed connection to another shared folder:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  <h2>Explore the LAN Domain:</h2>
