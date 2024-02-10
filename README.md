@@ -174,6 +174,14 @@ Show the successful connection to the email server: <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
+Document whether the VPN connection is a split tunnel or full tunnel, based on tracert results: <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+Show the successful reverse DNS lookup for the internet host: <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
 
  <h2>Explore the System/Application Domain:</h2>
 
