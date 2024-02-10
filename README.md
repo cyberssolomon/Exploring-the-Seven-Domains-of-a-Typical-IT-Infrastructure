@@ -40,16 +40,16 @@ Project consists reviewing basic security controls on a Windows workstation, exp
 
 
 <p align="center">
-Show sign-in options for user's account: <br/>
+Show sign-in options for the user's account: <br/>
 <img src="https://i.imgur.com/Hb10h22.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 View configured update policies page:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/9S721Q5.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 View virus and threat protection settings: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/9YXgEnl.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show security warning from attempting to run an executable file:  <br/>
