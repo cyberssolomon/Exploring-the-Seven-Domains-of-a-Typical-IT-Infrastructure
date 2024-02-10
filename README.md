@@ -23,14 +23,14 @@
 - <b>WebServer01 (Linux: Ubuntu 20)</b>
 - <b>RemoteWindows01 (Windows Server 2019)</b>
 - <b>AttackLinux01 (Linux: Kali)</b>
- ### Section 1
-
-<h2>Explore the Workstation Domain:</h2>
-
-
+ 
 <h2>Description</h2>
 Project consists reviewing basic security controls on a Windows workstation, exploring additional devices on a LAN segment(including a LINUX-based switch and a FREEBSD-based dial server), and connecting to a router-firewall to learn about the network perimeter.
 <br />
+
+### Section 1
+
+<h2>Explore the Workstation Domain:</h2>
 
 
 
