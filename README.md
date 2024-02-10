@@ -53,27 +53,27 @@ View virus and threat protection settings: <br/>
 <br />
 <br />
 Show security warning from attempting to run an executable file:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
+<img src="https://i.imgur.com/SiOcTif.png" height="80%" width="80%" alt="Section 1n Steps"/>
 <br />
 <br />
 Show the blocked attachment message:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MhGHBvc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Show successful connection to the user folder:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nKyuwco.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Show the failed connection to another user folder:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ATA0Ap2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Show the successful connection to the Marketing shared folder:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LqeeoBo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Show the failed connection to another shared folder:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tyzg3TR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  <h2>Explore the LAN Domain:</h2>
 
