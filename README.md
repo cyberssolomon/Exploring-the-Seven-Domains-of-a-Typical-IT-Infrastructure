@@ -109,27 +109,27 @@ Show contents of the Employees directory:  <br/>
 
 <p align="center">
 Show the Outbound NAT settings: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/pCQYiBO.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the permissive LAN rules::  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/U3O1Lc6.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the Static Routes page: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/txnRiEP.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the result of your tracert to the pfSense=dc appliance:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
+<img src=https://i.imgur.com/55q5jEc.png"" height="80%" width="80%" alt="Section 1n Steps"/>
 <br />
 <br />
 Show the Port Forward rules for the web server: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/ahZs4Y2.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the DMZ firewall rules: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src=https://i.imgur.com/xM71R9q.png"" height="80%" width="80%" alt="Section 1 Steps"/>
 
  ### Section 2
 
@@ -146,15 +146,15 @@ Show the DMZ firewall rules: <br/>
 
 <p align="center">
 Show the static route for the point-to-point connection: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/K2NA8GX.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the BPG neighbor ping results:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/OrTRpYs.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the traceroute to the file server: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/q0mlR5n.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 
@@ -171,15 +171,15 @@ Show the traceroute to the file server: <br/>
 
 <p align="center">
 Show the successful connection to the email server: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/2QXdU81.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Document whether the VPN connection is a split tunnel or full tunnel, based on tracert results: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/LJOR0EW.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the successful reverse DNS lookup for the internet host: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/96XwcCH.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 
@@ -196,31 +196,31 @@ Show the successful reverse DNS lookup for the internet host: <br/>
 
 <p align="center">
 Show the whoami results: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/B4iQOo4.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the members of the Developers AD group:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/z2VDreK.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the password policy settings in the Group Policy Management Console: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/6IcjNtu.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the DNS entries:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
+<img src="https://i.imgur.com/KlplGTi.png" height="80%" width="80%" alt="Section 1n Steps"/>
 <br />
 <br />
 Show the Docker service status:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Iu2Dge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Show the juiceshop.com web page:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EMa6Fe4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Show the disks in the tank volume:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KlF7i8w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
