@@ -38,28 +38,36 @@ Show sign-in options for user's account: <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+View configured update policies page:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+View virus and threat protection settings: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Show security warning from attempting to run an executable file:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Show the blocked attachment message:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Show successful connection to the user folder:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Show failed connections to another user folder:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Show successful connection to marketing shared folder:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Show failed connections to another shared folder:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 
 <!--
