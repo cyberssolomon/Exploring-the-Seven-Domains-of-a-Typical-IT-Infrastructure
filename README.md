@@ -35,7 +35,7 @@ Project consists reviewing basic security controls on a Windows workstation, exp
 
 <p align="center">
 Show sign-in options for user's account: <br/>
-<img src="C:\Users\Inspiredu\OneDrive\Documents\Screenshot 2024-02-09 1.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
