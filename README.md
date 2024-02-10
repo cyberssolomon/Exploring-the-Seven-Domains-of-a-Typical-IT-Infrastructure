@@ -1,20 +1,35 @@
 <h1>Exploring the Seven Domains of a Typical IT Infrastructure</h1>
 
- ### Section 1
+<h2>Tools and Software Used</h2>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>PuTTy</b> 
+- <b>Ping</b>
+- <b>Open vSwitch</b> 
+- <b>TrueNAS</b>
+- <b>pfSense</b> 
+- <b>Traceroute</b>
+- <b>Nslookup</b> 
+- <b>OpenVPN</b>
+- <b>OWASP Juiceshop</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>vWorkstation (Windows Server 2022)</b> 
+- <b>Switch01 (Linux: Debian 11)</b>
+- <b>FileServer01 (FreeBSD)</b>
+- <b>pfSense Office (FreeBSD)</b>
+- <b>pfSense-dc (FreeBSD)</b>
+- <b>DomainController01 (Windows Server 2019)</b>
+- <b>WebServer01 (Linux: Ubuntu 20)</b>
+- <b>RemoteWindows01 (Windows Server 2019)</b>
+- <b>AttackLinux01 (Linux: Kali)</b>
+ ### Section 1
+
+<h2>Description</h2>
+Project consists reviewing basic security controls on a Windows workstation, exploring additional devices on a LAN segment(including a LINUX-based switch and a FREEBSD-based dial server), and connecting to a router-firewall to learn about the network perimeter.
+<br />
+
+
 
 <h2>Program walk-through:</h2>
 
