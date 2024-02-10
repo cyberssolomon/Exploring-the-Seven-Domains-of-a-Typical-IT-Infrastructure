@@ -25,13 +25,18 @@
 - <b>AttackLinux01 (Linux: Kali)</b>
  ### Section 1
 
+<h2>Explore the Workstation Domain:</h2>
+
+
 <h2>Description</h2>
 Project consists reviewing basic security controls on a Windows workstation, exploring additional devices on a LAN segment(including a LINUX-based switch and a FREEBSD-based dial server), and connecting to a router-firewall to learn about the network perimeter.
 <br />
 
 
 
-<h2>Explore the Workstation Domain:</h2>
+
+
+
 
 <p align="center">
 Show sign-in options for user's account: <br/>
@@ -67,7 +72,54 @@ Show successful connection to marketing shared folder:  <br/>
 <br />
 <br />
 Show failed connections to another shared folder:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <h2>Explore the LAN Domain:</h2>
+
+
+<h2>Description</h2>
+Project consists reviewing basic security controls on a Windows workstation, exploring additional devices on a LAN segment(including a LINUX-based switch and a FREEBSD-based dial server), and connecting to a router-firewall to learn about the network perimeter.
+<br />
+
+
+
+
+
+<p align="center">
+Show sign-in options for user's account: <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+View configured update policies page:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+View virus and threat protection settings: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+Show security warning from attempting to run an executable file:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
+<br />
+<br />
+Show the blocked attachment message:  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Show successful connection to the user folder:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Show failed connections to another user folder:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Show successful connection to marketing shared folder:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Show failed connections to another shared folder:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 
 <!--
