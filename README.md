@@ -68,7 +68,7 @@ Show failed connections to another user folder:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Show successful connection to marketing shared folder:  <br/>
+Show successful connection to the Marketing shared folder:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -157,84 +157,63 @@ Show the traceroute to the file server: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
-Show security warning from attempting to run an executable file:  <br/>
+
+ <h2>Explore the Remote Access Domain:</h2>
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+Show the successful connection to the email server: <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+
+ <h2>Explore the System/Application Domain:</h2>
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+Show the whoami results: <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+Show the members of the Developers AD group:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+Show the password policy settings in the Group Policy Management Console: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<br />
+<br />
+Show the DNS entries:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
 <br />
 <br />
-Show the blocked attachment message:  <br/>
+Show the Docker service status:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Show successful connection to the user folder:  <br/>
+Show the juiceshop.com web page:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Show failed connections to another user folder:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Show successful connection to marketing shared folder:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Show failed connections to another shared folder:  <br/>
+Show the disks in the tank volume:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- <h2>Explore the LAN Domain:</h2>
-
-
-
-
-
-
-
-<p align="center">
-Show vWorkstation's original ARP table: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show VWorkstation's updated ARP table::  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show Switch01 forwarding table: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show contents of the Employees directory:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
-
- <h2>Explore the LAN-to-WAN Domain:</h2>
-
-
-
-
-
-
-
-<p align="center">
-Show the Outbound NAT settings: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show the permissive LAN rules::  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show the Static Routes page: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show the result of your tracert to the pfSense=dc appliance:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
-<br />
-<br />
-Show the Port Forward rules for the web server: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
-Show the DMZ firewall rules: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
 </p>
 
 <!--
