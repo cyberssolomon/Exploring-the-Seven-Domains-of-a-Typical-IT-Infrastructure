@@ -85,19 +85,19 @@ Show the failed connection to another shared folder:  <br/>
 
 <p align="center">
 Show vWorkstation's original ARP table: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/yJlmNOa.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show VWorkstation's updated ARP table::  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/4L7aLKq.pngS" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show Switch01 forwarding table: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/g9w9wNB.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show contents of the Employees directory:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Section 1n Steps"/>
+<img src="https://i.imgur.com/HhM5T8J.png" height="80%" width="80%" alt="Section 1n Steps"/>
 
  <h2>Explore the LAN-to-WAN Domain:</h2>
 
