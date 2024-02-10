@@ -25,7 +25,7 @@
 - <b>AttackLinux01 (Linux: Kali)</b>
  
 <h2>Description</h2>
-Project consists reviewing basic security controls on a Windows workstation, exploring additional devices on a LAN segment(including a LINUX-based switch and a FREEBSD-based dial server), and connecting to a router-firewall to learn about the network perimeter.
+Project consists of exploring the seven domains within the context of a virtual lab environment: reviewing basic security controls on a Windows workstation, exploring additional devices on a LAN segment(including a LINUX-based switch and a FREEBSD-based dial server), and connecting to a router-firewall to learn about the network perimeter.
 <br />
 
 ### Section 1
