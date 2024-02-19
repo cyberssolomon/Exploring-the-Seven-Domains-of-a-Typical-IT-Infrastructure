@@ -146,15 +146,15 @@ Show the DMZ firewall rules: <br/>
 
 <p align="center">
 Show the static route for the point-to-point connection: <br/>
-<img src="https://i.imgur.com/K2NA8GX.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/K2NA8GX.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the BPG neighbor ping results:  <br/>
-<img src="https://i.imgur.com/OrTRpYs.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/OrTRpYs.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the traceroute to the file server: <br/>
-<img src="https://i.imgur.com/q0mlR5n.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/q0mlR5n.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 
@@ -171,15 +171,15 @@ Show the traceroute to the file server: <br/>
 
 <p align="center">
 Show the successful connection to the email server: <br/>
-<img src="https://i.imgur.com/2QXdU81.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/2QXdU81.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Document whether the VPN connection is a split tunnel or full tunnel, based on tracert results: <br/>
-<img src="https://i.imgur.com/LJOR0EW.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/LJOR0EW.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the successful reverse DNS lookup for the internet host: <br/>
-<img src="https://i.imgur.com/96XwcCH.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/96XwcCH.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 
@@ -196,31 +196,31 @@ Show the successful reverse DNS lookup for the internet host: <br/>
 
 <p align="center">
 Show the whoami results: <br/>
-<img src="https://i.imgur.com/B4iQOo4.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/B4iQOo4.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the members of the Developers AD group:  <br/>
-<img src="https://i.imgur.com/z2VDreK.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/z2VDreK.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the password policy settings in the Group Policy Management Console: <br/>
-<img src="https://i.imgur.com/6IcjNtu.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/6IcjNtu.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the DNS entries:  <br/>
-<img src="https://i.imgur.com/KlplGTi.png" height="80%" width="80%" alt="Section 1n Steps"/>
+<img src="https://i.imgur.com/KlplGTi.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the Docker service status:  <br/>
-<img src="https://i.imgur.com/1Iu2Dge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Iu2Dge.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the juiceshop.com web page:  <br/>
-<img src="https://i.imgur.com/EMa6Fe4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EMa6Fe4.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the disks in the tank volume:  <br/>
-<img src="https://i.imgur.com/KlF7i8w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KlF7i8w.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 </p>
 
